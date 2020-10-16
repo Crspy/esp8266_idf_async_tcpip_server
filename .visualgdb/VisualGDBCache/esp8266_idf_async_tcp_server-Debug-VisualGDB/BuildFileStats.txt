@@ -1,0 +1,751 @@
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\app_update\component_project_vars.mk: 132473550757881153
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\aws_iot\component_project_vars.mk: 132473550753123123
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\bootloader\bootloader_support\component_project_vars.mk: 132473550888493934
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\bootloader\component_project_vars.mk: 132473550749244051
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\bootloader\esp8266\component_project_vars.mk: 132473550872534118
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\bootloader\esptool_py\component_project_vars.mk: 132473550894302491
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\bootloader\log\component_project_vars.mk: 132473550878025074
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\bootloader\main\component_project_vars.mk: 132473550893317597
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\bootloader\spi_flash\component_project_vars.mk: 132473550883618707
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\bootloader\util\component_project_vars.mk: 132473550867515214
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\bootloader_support\component_project_vars.mk: 132473550748467864
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\coap\component_project_vars.mk: 132473550744128015
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\console\component_project_vars.mk: 132473550739481041
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\esp_common\component_project_vars.mk: 132473550719671659
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\esp_http_client\component_project_vars.mk: 132473550715532720
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\esp_http_server\component_project_vars.mk: 132473550710466280
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\esp_https_ota\component_project_vars.mk: 132473550705220284
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\esp_ringbuf\component_project_vars.mk: 132473550700512865
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\esp8266\component_project_vars.mk: 132473550725187260
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\esp-tls\component_project_vars.mk: 132473550735124322
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\esptool_py\component_project_vars.mk: 132473550694867959
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\esp-wolfssl\component_project_vars.mk: 132473550730636321
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\freertos\component_project_vars.mk: 132473550693930462
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\heap\component_project_vars.mk: 132473550689282886
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\http_parser\component_project_vars.mk: 132473550683618046
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\jsmn\component_project_vars.mk: 132473550678182555
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\json\component_project_vars.mk: 132473550672747356
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\libsodium\component_project_vars.mk: 132473550667391402
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\log\component_project_vars.mk: 132473550662235183
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\lwip\component_project_vars.mk: 132473550657388138
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\main\component_project_vars.mk: 132473550651703336
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\mbedtls\component_project_vars.mk: 132473550646128240
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\mdns\component_project_vars.mk: 132473550640573085
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\mqtt\component_project_vars.mk: 132473550635965399
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\newlib\component_project_vars.mk: 132473550631018933
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\nvs_flash\component_project_vars.mk: 132473550625742745
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\openssl\component_project_vars.mk: 132473550620686461
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\partition_table\component_project_vars.mk: 132473550615839197
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\protobuf-c\component_project_vars.mk: 132473550614871781
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\protocomm\component_project_vars.mk: 132473550610104541
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\pthread\component_project_vars.mk: 132473550605456948
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\smartconfig_ack\component_project_vars.mk: 132473550600831463
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\spi_flash\component_project_vars.mk: 132473550596408515
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\spi_ram\component_project_vars.mk: 132473550591796533
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\spiffs\component_project_vars.mk: 132473550587095756
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\tcp_transport\component_project_vars.mk: 132473550582614273
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\tcpip_adapter\component_project_vars.mk: 132473550577939718
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\util\component_project_vars.mk: 132473550573675295
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\vfs\component_project_vars.mk: 132473550568533709
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\wifi_provisioning\component_project_vars.mk: 132473550564096319
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_async_tcp_server-Debug-VisualGDB\CodeSenseDir\wpa_supplicant\component_project_vars.mk: 132473550559511318
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\app_update\component_project_vars.mk: 132473536951231409
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\aws_iot\component_project_vars.mk: 132473536946110100
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\bootloader\bootloader_support\component_project_vars.mk: 132473537091566680
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\bootloader\component_project_vars.mk: 132473536941502680
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\bootloader\esp8266\component_project_vars.mk: 132473537074052357
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\bootloader\esptool_py\component_project_vars.mk: 132473537098312330
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\bootloader\log\component_project_vars.mk: 132473537078792538
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\bootloader\main\component_project_vars.mk: 132473537097085694
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\bootloader\spi_flash\component_project_vars.mk: 132473537084717771
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\bootloader\util\component_project_vars.mk: 132473537069078541
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\bootloader_support\component_project_vars.mk: 132473536940634735
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\coap\component_project_vars.mk: 132473536935382524
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\console\component_project_vars.mk: 132473536930346065
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\esp_common\component_project_vars.mk: 132473536910684545
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\esp_http_client\component_project_vars.mk: 132473536905229150
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\esp_http_server\component_project_vars.mk: 132473536900003101
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\esp_https_ota\component_project_vars.mk: 132473536894537707
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\esp_ringbuf\component_project_vars.mk: 132473536889565500
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\esp8266\component_project_vars.mk: 132473536915866327
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\esp-tls\component_project_vars.mk: 132473536925090141
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\esptool_py\component_project_vars.mk: 132473536884838131
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\esp-wolfssl\component_project_vars.mk: 132473536920328387
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\freertos\component_project_vars.mk: 132473536883880688
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\heap\component_project_vars.mk: 132473536878674604
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\http_parser\component_project_vars.mk: 132473536873677920
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\jsmn\component_project_vars.mk: 132473536869110136
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\json\component_project_vars.mk: 132473536864661013
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\libsodium\component_project_vars.mk: 132473536858921212
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\log\component_project_vars.mk: 132473536852847455
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\lwip\component_project_vars.mk: 132473536847197260
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\main\component_project_vars.mk: 132473536840535073
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\mbedtls\component_project_vars.mk: 132473536835438703
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\mdns\component_project_vars.mk: 132473536829664125
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\mqtt\component_project_vars.mk: 132473536824188761
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\newlib\component_project_vars.mk: 132473536819660870
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\nvs_flash\component_project_vars.mk: 132473536813806528
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\openssl\component_project_vars.mk: 132473536809637904
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\partition_table\component_project_vars.mk: 132473536804411633
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\protobuf-c\component_project_vars.mk: 132473536803494401
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\protocomm\component_project_vars.mk: 132473536798820188
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\pthread\component_project_vars.mk: 132473536793106126
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\smartconfig_ack\component_project_vars.mk: 132473536788743091
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\spi_flash\component_project_vars.mk: 132473536784263348
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\spi_ram\component_project_vars.mk: 132473536779889770
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\spiffs\component_project_vars.mk: 132473536775262707
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\tcp_transport\component_project_vars.mk: 132473536770829377
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\tcpip_adapter\component_project_vars.mk: 132473536765809079
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\util\component_project_vars.mk: 132473536761289333
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\vfs\component_project_vars.mk: 132473536756946703
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\wifi_provisioning\component_project_vars.mk: 132473536752678939
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Debug-VisualGDB\CodeSenseDir\wpa_supplicant\component_project_vars.mk: 132473536748713620
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\app_update\component_project_vars.mk: 132473543988960719
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\aws_iot\component_project_vars.mk: 132473543983893050
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\bootloader\bootloader_support\component_project_vars.mk: 132473544154173422
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\bootloader\component_project_vars.mk: 132473543978330314
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\bootloader\esp8266\component_project_vars.mk: 132473544134121335
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\bootloader\esptool_py\component_project_vars.mk: 132473544161997658
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\bootloader\log\component_project_vars.mk: 132473544141821014
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\bootloader\main\component_project_vars.mk: 132473544160701145
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\bootloader\spi_flash\component_project_vars.mk: 132473544147994523
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\bootloader\util\component_project_vars.mk: 132473544125948049
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\bootloader_support\component_project_vars.mk: 132473543977136530
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\coap\component_project_vars.mk: 132473543971083492
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\console\component_project_vars.mk: 132473543965506484
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\esp_common\component_project_vars.mk: 132473543941506439
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\esp_http_client\component_project_vars.mk: 132473543935746181
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\esp_http_server\component_project_vars.mk: 132473543931146621
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\esp_https_ota\component_project_vars.mk: 132473543926544588
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\esp_ringbuf\component_project_vars.mk: 132473543921239105
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\esp8266\component_project_vars.mk: 132473543948836262
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\esp-tls\component_project_vars.mk: 132473543960525946
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\esptool_py\component_project_vars.mk: 132473543916942463
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\esp-wolfssl\component_project_vars.mk: 132473543954620892
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\freertos\component_project_vars.mk: 132473543915876720
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\heap\component_project_vars.mk: 132473543910533222
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\http_parser\component_project_vars.mk: 132473543905399205
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\jsmn\component_project_vars.mk: 132473543899480582
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\json\component_project_vars.mk: 132473543892966282
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\libsodium\component_project_vars.mk: 132473543886963775
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\log\component_project_vars.mk: 132473543881170634
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\lwip\component_project_vars.mk: 132473543876043672
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\main\component_project_vars.mk: 132473543871011193
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\mbedtls\component_project_vars.mk: 132473543866036732
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\mdns\component_project_vars.mk: 132473543861227975
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\mqtt\component_project_vars.mk: 132473543856281795
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\newlib\component_project_vars.mk: 132473543851349685
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\nvs_flash\component_project_vars.mk: 132473543846463903
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\openssl\component_project_vars.mk: 132473543841924029
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\partition_table\component_project_vars.mk: 132473543837371571
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\protobuf-c\component_project_vars.mk: 132473543835127240
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\protocomm\component_project_vars.mk: 132473543829849914
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\pthread\component_project_vars.mk: 132473543822494316
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\smartconfig_ack\component_project_vars.mk: 132473543817454941
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\spi_flash\component_project_vars.mk: 132473543812176039
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\spi_ram\component_project_vars.mk: 132473543805510384
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\spiffs\component_project_vars.mk: 132473543790469239
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\tcp_transport\component_project_vars.mk: 132473543785725466
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\tcpip_adapter\component_project_vars.mk: 132473543779863810
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\util\component_project_vars.mk: 132473543774858143
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\vfs\component_project_vars.mk: 132473543769929307
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\wifi_provisioning\component_project_vars.mk: 132473543764976713
+C:\projects\esp8266_idf_async_tcp_server\.visualgdb\VisualGDBCache\esp8266_idf_tcp_server-Release-VisualGDB\CodeSenseDir\wpa_supplicant\component_project_vars.mk: 132473543760629536
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\app_update\component_project_vars.mk: 132473537652321634
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\aws_iot\component_project_vars.mk: 132473537651862874
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\bootloader\bootloader_support\component_project_vars.mk: 132473537761520556
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\bootloader\component_project_vars.mk: 132473537641441408
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\bootloader\esp8266\component_project_vars.mk: 132473537741078788
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\bootloader\esptool_py\component_project_vars.mk: 132473537764288298
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\bootloader\log\component_project_vars.mk: 132473537743487489
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\bootloader\main\component_project_vars.mk: 132473537776611278
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\bootloader\spi_flash\component_project_vars.mk: 132473537759391127
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\bootloader\util\component_project_vars.mk: 132473537725988061
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\bootloader_support\component_project_vars.mk: 132473537649927909
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\coap\component_project_vars.mk: 132473537649070118
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\console\component_project_vars.mk: 132473537647749887
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\esp_common\component_project_vars.mk: 132473537642458677
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\esp_http_client\component_project_vars.mk: 132473537638608698
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\esp_http_server\component_project_vars.mk: 132473537637157407
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\esp_https_ota\component_project_vars.mk: 132473537635367074
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\esp_ringbuf\component_project_vars.mk: 132473537634220143
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\esp8266\component_project_vars.mk: 132473537646548385
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\esp-tls\component_project_vars.mk: 132473537646747449
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\esptool_py\component_project_vars.mk: 132473537621777568
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\esp-wolfssl\component_project_vars.mk: 132473537645381100
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\freertos\component_project_vars.mk: 132473537632778873
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\heap\component_project_vars.mk: 132473537631751615
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\http_parser\component_project_vars.mk: 132473537631437326
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\jsmn\component_project_vars.mk: 132473537629637004
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\json\component_project_vars.mk: 132473537623508024
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\libsodium\component_project_vars.mk: 132473537622959500
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\log\component_project_vars.mk: 132473537618057226
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\lwip\component_project_vars.mk: 132473537620196643
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\main\component_project_vars.mk: 132473537619269119
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\mbedtls\component_project_vars.mk: 132473537618940009
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\mdns\component_project_vars.mk: 132473537616700850
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\mqtt\component_project_vars.mk: 132473537615728336
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\newlib\component_project_vars.mk: 132473537607679348
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\nvs_flash\component_project_vars.mk: 132473537605400318
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\openssl\component_project_vars.mk: 132473537604278195
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\partition_table\component_project_vars.mk: 132473537592099711
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\protobuf-c\component_project_vars.mk: 132473537604198407
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\protocomm\component_project_vars.mk: 132473537604367963
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\pthread\component_project_vars.mk: 132473537603131265
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\smartconfig_ack\component_project_vars.mk: 132473537601879480
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\spi_flash\component_project_vars.mk: 132473537601789726
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\spi_ram\component_project_vars.mk: 132473537589451649
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\spiffs\component_project_vars.mk: 132473537589740868
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\tcp_transport\component_project_vars.mk: 132473537588917962
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\tcpip_adapter\component_project_vars.mk: 132473537588927955
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\util\component_project_vars.mk: 132473537587187439
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\vfs\component_project_vars.mk: 132473537587930602
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\wifi_provisioning\component_project_vars.mk: 132473537587217363
+C:\projects\esp8266_idf_async_tcp_server\build\Debug\wpa_supplicant\component_project_vars.mk: 132473537588927955
+C:\projects\esp8266_idf_async_tcp_server\build\Release\app_update\component_project_vars.mk: 132473544653309200
+C:\projects\esp8266_idf_async_tcp_server\build\Release\aws_iot\component_project_vars.mk: 132473544651712108
+C:\projects\esp8266_idf_async_tcp_server\build\Release\bootloader\bootloader_support\component_project_vars.mk: 132473544808689427
+C:\projects\esp8266_idf_async_tcp_server\build\Release\bootloader\component_project_vars.mk: 132473544641383258
+C:\projects\esp8266_idf_async_tcp_server\build\Release\bootloader\esp8266\component_project_vars.mk: 132473544748409619
+C:\projects\esp8266_idf_async_tcp_server\build\Release\bootloader\esptool_py\component_project_vars.mk: 132473544828288038
+C:\projects\esp8266_idf_async_tcp_server\build\Release\bootloader\log\component_project_vars.mk: 132473544770563157
+C:\projects\esp8266_idf_async_tcp_server\build\Release\bootloader\main\component_project_vars.mk: 132473544832377329
+C:\projects\esp8266_idf_async_tcp_server\build\Release\bootloader\spi_flash\component_project_vars.mk: 132473544789297799
+C:\projects\esp8266_idf_async_tcp_server\build\Release\bootloader\util\component_project_vars.mk: 132473544736554182
+C:\projects\esp8266_idf_async_tcp_server\build\Release\bootloader_support\component_project_vars.mk: 132473544650249550
+C:\projects\esp8266_idf_async_tcp_server\build\Release\coap\component_project_vars.mk: 132473544650179737
+C:\projects\esp8266_idf_async_tcp_server\build\Release\console\component_project_vars.mk: 132473544648913119
+C:\projects\esp8266_idf_async_tcp_server\build\Release\esp_common\component_project_vars.mk: 132473544645591996
+C:\projects\esp8266_idf_async_tcp_server\build\Release\esp_http_client\component_project_vars.mk: 132473544638810132
+C:\projects\esp8266_idf_async_tcp_server\build\Release\esp_http_server\component_project_vars.mk: 132473544638271562
+C:\projects\esp8266_idf_async_tcp_server\build\Release\esp_https_ota\component_project_vars.mk: 132473544638780204
+C:\projects\esp8266_idf_async_tcp_server\build\Release\esp_ringbuf\component_project_vars.mk: 132473544637104702
+C:\projects\esp8266_idf_async_tcp_server\build\Release\esp8266\component_project_vars.mk: 132473544646988261
+C:\projects\esp8266_idf_async_tcp_server\build\Release\esp-tls\component_project_vars.mk: 132473544648105278
+C:\projects\esp8266_idf_async_tcp_server\build\Release\esptool_py\component_project_vars.mk: 132473544626382925
+C:\projects\esp8266_idf_async_tcp_server\build\Release\esp-wolfssl\component_project_vars.mk: 132473544646928422
+C:\projects\esp8266_idf_async_tcp_server\build\Release\freertos\component_project_vars.mk: 132473544635618664
+C:\projects\esp8266_idf_async_tcp_server\build\Release\heap\component_project_vars.mk: 132473544635738338
+C:\projects\esp8266_idf_async_tcp_server\build\Release\http_parser\component_project_vars.mk: 132473544634142600
+C:\projects\esp8266_idf_async_tcp_server\build\Release\jsmn\component_project_vars.mk: 132473544632826125
+C:\projects\esp8266_idf_async_tcp_server\build\Release\json\component_project_vars.mk: 132473544626976442
+C:\projects\esp8266_idf_async_tcp_server\build\Release\libsodium\component_project_vars.mk: 132473544626133597
+C:\projects\esp8266_idf_async_tcp_server\build\Release\log\component_project_vars.mk: 132473544623854569
+C:\projects\esp8266_idf_async_tcp_server\build\Release\lwip\component_project_vars.mk: 132473544625355669
+C:\projects\esp8266_idf_async_tcp_server\build\Release\main\component_project_vars.mk: 132473544623904436
+C:\projects\esp8266_idf_async_tcp_server\build\Release\mbedtls\component_project_vars.mk: 132473544624153765
+C:\projects\esp8266_idf_async_tcp_server\build\Release\mdns\component_project_vars.mk: 132473544622577983
+C:\projects\esp8266_idf_async_tcp_server\build\Release\mqtt\component_project_vars.mk: 132473544622338618
+C:\projects\esp8266_idf_async_tcp_server\build\Release\newlib\component_project_vars.mk: 132473544614005245
+C:\projects\esp8266_idf_async_tcp_server\build\Release\nvs_flash\component_project_vars.mk: 132473544612125166
+C:\projects\esp8266_idf_async_tcp_server\build\Release\openssl\component_project_vars.mk: 132473544612763483
+C:\projects\esp8266_idf_async_tcp_server\build\Release\partition_table\component_project_vars.mk: 132473544601935465
+C:\projects\esp8266_idf_async_tcp_server\build\Release\protobuf-c\component_project_vars.mk: 132473544612175036
+C:\projects\esp8266_idf_async_tcp_server\build\Release\protocomm\component_project_vars.mk: 132473544611506819
+C:\projects\esp8266_idf_async_tcp_server\build\Release\pthread\component_project_vars.mk: 132473544610324864
+C:\projects\esp8266_idf_async_tcp_server\build\Release\smartconfig_ack\component_project_vars.mk: 132473544611262354
+C:\projects\esp8266_idf_async_tcp_server\build\Release\spi_flash\component_project_vars.mk: 132473544610993076
+C:\projects\esp8266_idf_async_tcp_server\build\Release\spi_ram\component_project_vars.mk: 132473544599924189
+C:\projects\esp8266_idf_async_tcp_server\build\Release\spiffs\component_project_vars.mk: 132473544600334432
+C:\projects\esp8266_idf_async_tcp_server\build\Release\tcp_transport\component_project_vars.mk: 132473544599934162
+C:\projects\esp8266_idf_async_tcp_server\build\Release\tcpip_adapter\component_project_vars.mk: 132473544597853244
+C:\projects\esp8266_idf_async_tcp_server\build\Release\util\component_project_vars.mk: 132473544599403934
+C:\projects\esp8266_idf_async_tcp_server\build\Release\vfs\component_project_vars.mk: 132473544598203450
+C:\projects\esp8266_idf_async_tcp_server\build\Release\wifi_provisioning\component_project_vars.mk: 132473544598143611
+C:\projects\esp8266_idf_async_tcp_server\build\Release\wpa_supplicant\component_project_vars.mk: 132473544599873889
+C:\projects\esp8266_idf_async_tcp_server\main\AsyncTCP.cpp
+C:\projects\esp8266_idf_async_tcp_server\main\component.mk: 132468135510726845
+C:\projects\esp8266_idf_async_tcp_server\main\component.mk: 132468135510726845
+C:\projects\esp8266_idf_async_tcp_server\main\IPAddress.cpp
+C:\projects\esp8266_idf_async_tcp_server\main\Kconfig.projbuild: 132468135510657021
+C:\projects\esp8266_idf_async_tcp_server\main\tcp_server.cpp
+C:\projects\esp8266_idf_async_tcp_server\main\Util.cpp
+C:\projects\esp8266_idf_async_tcp_server\Makefile: 132468135510497684
+C:\projects\esp8266_idf_async_tcp_server\sdkconfig-debug: 132473541629471444
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\app_update\component.mk: 132468135278539805
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\app_update\esp_ota_ops.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\app_update\Makefile.projbuild: 132468135278440060
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\bootloader\subproject\main\bootloader_start.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\bootloader\subproject\main\component.mk: 132468135295560927
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\bootloader_support\component.mk: 132468135295919968
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\bootloader_support\Makefile.projbuild: 132468135295790310
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\bootloader_support\src\bootloader_clock.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\bootloader_support\src\bootloader_common.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\bootloader_support\src\bootloader_flash.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\bootloader_support\src\bootloader_init.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\bootloader_support\src\bootloader_random.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\bootloader_support\src\bootloader_sha.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\bootloader_support\src\bootloader_utility.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\bootloader_support\src\efuse.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\bootloader_support\src\esp_image_format.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\bootloader_support\src\flash_encrypt.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\bootloader_support\src\flash_partitions.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\bootloader_support\src\flash_qio_mode.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\bootloader_support\src\secure_boot.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\bootloader_support\src\secure_boot_signatures.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\component.mk: 132468135298334190
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\libcoap\src\address.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\libcoap\src\async.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\libcoap\src\block.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\libcoap\src\coap_io.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\libcoap\src\coap_io_lwip.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\libcoap\src\coap_time.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\libcoap\src\debug.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\libcoap\src\encode.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\libcoap\src\hashkey.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\libcoap\src\mem.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\libcoap\src\net.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\libcoap\src\option.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\libcoap\src\pdu.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\libcoap\src\resource.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\libcoap\src\str.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\libcoap\src\subscribe.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\libcoap\src\uri.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\Makefile.projbuild: 132468135298244425
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\coap\port\coap_io_socket.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp_common\component.mk: 132468135329293836
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp_common\src\stack_check.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp_http_client\component.mk: 132468135329697830
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp_http_client\esp_http_client.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp_http_client\lib\http_auth.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp_http_client\lib\http_header.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp_http_client\lib\http_utils.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp_http_server\component.mk: 132468135330576423
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp_http_server\src\httpd_main.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp_http_server\src\httpd_parse.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp_http_server\src\httpd_sess.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp_http_server\src\httpd_txrx.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp_http_server\src\httpd_uri.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp_http_server\src\util\ctrl_sock.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp_https_ota\component.mk: 132468135331831323
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp_https_ota\src\esp_https_ota.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp_ringbuf\component.mk: 132468135332453067
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp_ringbuf\ringbuf.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\component.mk: 132468135313585408
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\driver\adc.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\driver\gpio.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\driver\hspi_logic_layer.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\driver\hw_timer.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\driver\i2c.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\driver\i2s.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\driver\ir_rx.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\driver\ir_tx.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\driver\ledc.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\driver\pwm.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\driver\spi.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\driver\uart.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\Makefile.projbuild: 132468135313425452
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\source\backtrace.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\source\chip_boot.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\source\esp_err_to_name.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\source\esp_fsleep.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\source\esp_sleep.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\source\esp_timer.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\source\esp_wifi.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\source\esp_wifi_os_adapter.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\source\ets_printf.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\source\event_default_handlers.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\source\event_loop.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\source\hw_random.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\source\phy_init.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\source\reset_reason.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\source\rom.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\source\startup.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\source\system_api.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp8266\source\task_wdt.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp-tls\component.mk: 132468135309204536
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp-tls\esp_tls.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp-tls\esp_tls_mbedtls.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\esp-tls\esp_tls_wolfssl.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\freertos\component.mk: 132468135341086947
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\freertos\freertos\event_groups.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\freertos\freertos\list.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\freertos\freertos\queue.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\freertos\freertos\stream_buffer.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\freertos\freertos\tasks.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\freertos\freertos\timers.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\freertos\port\esp8266\freertos_hooks.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\freertos\port\esp8266\impure.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\freertos\port\esp8266\os_cpu_a.S
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\freertos\port\esp8266\panic.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\freertos\port\esp8266\port.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\freertos\port\esp8266\xtensa_context.S
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\freertos\port\esp8266\xtensa_vectors.S
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\heap\component.mk: 132468135344114589
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\heap\port\esp8266\esp_heap_init.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\heap\src\esp_heap_caps.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\heap\src\esp_heap_trace.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\http_parser\component.mk: 132468135345087250
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\http_parser\src\http_parser.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\jsmn\component.mk: 132468135345456261
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\jsmn\src\jsmn.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\json\cJSON\cJSON.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\json\cJSON\cJSON_Utils.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\json\cJSON\Makefile: 132468135884543318
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\json\cJSON\test.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\json\component.mk: 132468135345805417
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\component.mk: 132468135346054737
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_aead\chacha20poly1305\sodium\aead_chacha20poly1305.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_aead\xchacha20poly1305\sodium\aead_xchacha20poly1305.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_auth\crypto_auth.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_auth\hmacsha256\auth_hmacsha256.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_auth\hmacsha512\auth_hmacsha512.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_auth\hmacsha512256\auth_hmacsha512256.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_box\crypto_box.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_box\crypto_box_easy.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_box\crypto_box_seal.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_box\curve25519xsalsa20poly1305\box_curve25519xsalsa20poly1305.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_core\curve25519\ref10\curve25519_ref10.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_core\hchacha20\core_hchacha20.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_core\hsalsa20\core_hsalsa20.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_core\hsalsa20\ref2\core_hsalsa20_ref2.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_core\salsa\ref\core_salsa_ref.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_generichash\blake2b\generichash_blake2.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_generichash\blake2b\ref\blake2b-compress-avx2.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_generichash\blake2b\ref\blake2b-compress-ref.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_generichash\blake2b\ref\blake2b-compress-sse41.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_generichash\blake2b\ref\blake2b-compress-ssse3.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_generichash\blake2b\ref\blake2b-ref.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_generichash\blake2b\ref\generichash_blake2b.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_generichash\crypto_generichash.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_hash\crypto_hash.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_hash\sha256\hash_sha256.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_hash\sha512\hash_sha512.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_kdf\blake2b\kdf_blake2b.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_kdf\crypto_kdf.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_kx\crypto_kx.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_onetimeauth\crypto_onetimeauth.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_onetimeauth\poly1305\donna\poly1305_donna.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_onetimeauth\poly1305\onetimeauth_poly1305.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_pwhash\argon2\argon2.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_pwhash\argon2\argon2-core.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_pwhash\argon2\argon2-encoding.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_pwhash\argon2\argon2-fill-block-ref.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_pwhash\argon2\argon2-fill-block-ssse3.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_pwhash\argon2\blake2b-long.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_pwhash\argon2\pwhash_argon2i.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_pwhash\crypto_pwhash.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_pwhash\scryptsalsa208sha256\crypto_scrypt-common.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_pwhash\scryptsalsa208sha256\nosse\pwhash_scryptsalsa208sha256_nosse.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_pwhash\scryptsalsa208sha256\pbkdf2-sha256.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_pwhash\scryptsalsa208sha256\pwhash_scryptsalsa208sha256.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_pwhash\scryptsalsa208sha256\scrypt_platform.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_scalarmult\crypto_scalarmult.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_scalarmult\curve25519\ref10\x25519_ref10.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_scalarmult\curve25519\scalarmult_curve25519.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_secretbox\crypto_secretbox.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_secretbox\crypto_secretbox_easy.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_secretbox\xsalsa20poly1305\secretbox_xsalsa20poly1305.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_shorthash\crypto_shorthash.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_shorthash\siphash24\ref\shorthash_siphash24_ref.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_shorthash\siphash24\ref\shorthash_siphashx24_ref.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_shorthash\siphash24\shorthash_siphash24.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_shorthash\siphash24\shorthash_siphashx24.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_sign\crypto_sign.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_sign\ed25519\ref10\keypair.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_sign\ed25519\ref10\obsolete.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_sign\ed25519\ref10\open.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_sign\ed25519\ref10\sign.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_sign\ed25519\sign_ed25519.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_stream\chacha20\ref\chacha20_ref.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_stream\chacha20\stream_chacha20.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_stream\crypto_stream.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_stream\salsa20\ref\salsa20_ref.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_stream\salsa20\stream_salsa20.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_stream\xsalsa20\stream_xsalsa20.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\crypto_verify\sodium\verify.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\randombytes\randombytes.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\sodium\core.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\sodium\runtime.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\sodium\utils.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\libsodium\src\libsodium\sodium\version.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\port\crypto_hash_mbedtls\crypto_hash_sha256_mbedtls.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\port\crypto_hash_mbedtls\crypto_hash_sha512_mbedtls.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\libsodium\port\randombytes_esp8266.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\log\component.mk: 132468135387652296
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\log\log.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\apps\dhcpserver\dhcpserver.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\apps\multi-threads\sockets_mt.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\apps\ping\esp_ping.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\apps\ping\ping.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\component.mk: 132468135388922092
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\api\api_lib.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\api\api_msg.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\api\err.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\api\netbuf.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\api\netdb.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\api\netifapi.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\api\sockets.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\api\tcpip.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\apps\sntp\sntp.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\def.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\dns.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\inet_chksum.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\init.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\ip.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\ipv4\autoip.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\ipv4\dhcp.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\ipv4\etharp.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\ipv4\icmp.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\ipv4\igmp.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\ipv4\ip4.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\ipv4\ip4_addr.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\ipv4\ip4_frag.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\ipv6\dhcp6.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\ipv6\ethip6.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\ipv6\icmp6.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\ipv6\inet6.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\ipv6\ip6.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\ipv6\ip6_addr.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\ipv6\ip6_frag.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\ipv6\mld6.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\ipv6\nd6.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\mem.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\memp.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\netif.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\pbuf.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\raw.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\stats.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\sys.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\tcp.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\tcp_in.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\tcp_out.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\timeouts.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\core\udp.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\netif\ethernet.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\netif\ethernetif.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\netif\lowpan6.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\lwip\src\netif\slipif.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\port\esp8266\freertos\sys_arch.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\port\esp8266\freertos\udp_sync.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\lwip\port\esp8266\netif\ethernetif.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\component.mk: 132468135416410297
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\Makefile.projbuild: 132468135416290610
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\aes.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\aesni.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\arc4.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\aria.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\asn1parse.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\asn1write.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\base64.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\bignum.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\blowfish.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\camellia.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\ccm.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\certs.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\chacha20.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\chachapoly.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\cipher.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\cipher_wrap.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\cmac.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\ctr_drbg.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\debug.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\des.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\dhm.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\ecdh.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\ecdsa.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\ecjpake.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\ecp.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\ecp_curves.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\entropy.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\entropy_poll.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\error.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\gcm.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\havege.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\hkdf.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\hmac_drbg.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\Makefile: 132468135930468986
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\md.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\md_wrap.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\md2.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\md4.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\md5.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\memory_buffer_alloc.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\net_sockets.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\nist_kw.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\oid.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\padlock.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\pem.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\pk.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\pk_wrap.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\pkcs11.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\pkcs12.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\pkcs5.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\pkparse.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\pkwrite.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\platform.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\platform_util.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\poly1305.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\ripemd160.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\rsa.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\rsa_internal.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\sha1.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\sha256.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\sha512.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\ssl_cache.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\ssl_ciphersuites.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\ssl_cli.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\ssl_cookie.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\ssl_srv.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\ssl_ticket.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\ssl_tls.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\threading.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\timing.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\version.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\version_features.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\x509.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\x509_create.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\x509_crl.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\x509_crt.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\x509_csr.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\x509write_crt.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\x509write_csr.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\mbedtls\library\xtea.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\port\esp_hardware.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\port\esp_mem.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\port\esp_timing.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\port\esp8266\aes.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\port\esp8266\sha1.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\port\esp8266\sha256.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\port\esp8266\sha512.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\port\mbedtls_debug.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mbedtls\port\net_sockets.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mqtt\component.mk: 132468135422341767
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mqtt\esp-mqtt\lib\mqtt_msg.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mqtt\esp-mqtt\lib\mqtt_outbox.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mqtt\esp-mqtt\lib\platform_idf.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mqtt\esp-mqtt\mqtt_client.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\mqtt\Makefile.projbuild: 132468135422262299
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\newlib\component.mk: 132468135426586757
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\newlib\Makefile.projbuild: 132468135426467082
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\newlib\newlib\port\esp_malloc.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\newlib\newlib\port\esp_newlib.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\newlib\newlib\port\locks.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\newlib\newlib\port\random.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\newlib\newlib\port\select.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\newlib\newlib\port\syscall.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\newlib\newlib\port\termios.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\newlib\newlib\port\time.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\nvs_flash\component.mk: 132468135438225431
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\nvs_flash\src\nvs_api.cpp
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\nvs_flash\src\nvs_item_hash_list.cpp
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\nvs_flash\src\nvs_page.cpp
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\nvs_flash\src\nvs_pagemanager.cpp
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\nvs_flash\src\nvs_storage.cpp
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\nvs_flash\src\nvs_types.cpp
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\openssl\component.mk: 132468135442256987
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\openssl\library\ssl_cert.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\openssl\library\ssl_lib.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\openssl\library\ssl_methods.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\openssl\library\ssl_pkey.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\openssl\library\ssl_stack.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\openssl\library\ssl_x509.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\openssl\platform\ssl_pm.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\openssl\platform\ssl_port.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\protobuf-c\component.mk: 132468135446743631
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\protobuf-c\protobuf-c\protobuf-c\protobuf-c.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\smartconfig_ack\component.mk: 132468135455663587
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\smartconfig_ack\smartconfig_ack.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\spi_flash\component.mk: 132468135456371723
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\spi_flash\port\port.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\spi_flash\src\partition.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\spi_flash\src\spi_flash.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\spi_flash\src\spi_flash_raw.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\spi_ram\component.mk: 132468135457210052
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\spi_ram\spi_ram.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\spi_ram\spi_ram_fifo.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\tcp_transport\component.mk: 132468135461384464
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\tcp_transport\transport.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\tcp_transport\transport_ssl.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\tcp_transport\transport_tcp.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\tcp_transport\transport_utils.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\tcp_transport\transport_ws.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\util\component.mk: 132468135463765780
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\util\src\aes.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\util\src\arc4.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\util\src\base64.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\util\src\crc.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\util\src\md5.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\util\src\sha1.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\util\src\sha256.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\util\src\sha512.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\vfs\component.mk: 132468135466234735
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\vfs\port\fcntl.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\vfs\port\ioctl.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\vfs\vfs.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\vfs\vfs_uart.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\component.mk: 132468135468249854
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\port\os_xtensa.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\aes-cbc.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\aes-internal.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\aes-internal-dec.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\aes-internal-enc.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\aes-unwrap.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\aes-wrap.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\bignum.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\crypto_internal.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\crypto_internal-cipher.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\crypto_internal-modexp.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\crypto_internal-rsa.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\des-internal.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\dh_group5.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\dh_groups.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\md4-internal.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\md5.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\md5-internal.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\ms_funcs.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\rc4.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\sha1.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\sha1-internal.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\sha1-pbkdf2.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\sha256.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\crypto\sha256-internal.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\fast_crypto\fast_aes-cbc.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\fast_crypto\fast_aes-unwrap.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\fast_crypto\fast_aes-wrap.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\fast_crypto\fast_crypto_internal.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\fast_crypto\fast_crypto_internal-cipher.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\fast_crypto\fast_crypto_internal-modexp.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\fast_crypto\fast_sha256.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\fast_crypto\fast_sha256-internal.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\fast_crypto_ops.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\eap_peer\chap.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\eap_peer\eap.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\eap_peer\eap_common.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\eap_peer\eap_mschapv2.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\eap_peer\eap_peap.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\eap_peer\eap_peap_common.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\eap_peer\eap_tls.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\eap_peer\eap_tls_common.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\eap_peer\eap_ttls.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\eap_peer\mschapv2.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\tls\asn1.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\tls\bignum.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\tls\pkcs1.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\tls\pkcs5.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\tls\pkcs8.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\tls\rsa.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\tls\tls_internal.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\tls\tlsv1_client.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\tls\tlsv1_client_read.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\tls\tlsv1_client_write.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\tls\tlsv1_common.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\tls\tlsv1_cred.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\tls\tlsv1_record.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\tls\tlsv1_server.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\tls\tlsv1_server_read.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\tls\tlsv1_server_write.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\tls\x509v3.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\utils\base64.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wpa2\utils\ext_password.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wps\eap_common.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wps\uuid.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wps\wps.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wps\wps_attr_build.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wps\wps_attr_parse.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wps\wps_attr_process.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wps\wps_common.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wps\wps_dev_attr.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wps\wps_enrollee.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wps\wps_registrar.c
+C:\SysGCC\esp8266\rtos-sdk\v3.3-git\components\wpa_supplicant\src\wps\wps_validate.c

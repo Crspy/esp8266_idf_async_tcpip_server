@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<MemoryUtilizationReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Memories>
+    <MemoryUtilization>
+      <MemoryName>SPIFLASH</MemoryName>
+      <Used>318300</Used>
+      <Total>16777216</Total>
+    </MemoryUtilization>
+    <MemoryUtilization>
+      <MemoryName>INSTR_RAM</MemoryName>
+      <Used>39130</Used>
+      <Total>32768</Total>
+    </MemoryUtilization>
+    <MemoryUtilization>
+      <MemoryName>DATA_RAM</MemoryName>
+      <Used>11660</Used>
+      <Total>81920</Total>
+    </MemoryUtilization>
+    <MemoryUtilization>
+      <MemoryName>Unknown</MemoryName>
+      <Used>4140</Used>
+      <Total>0</Total>
+    </MemoryUtilization>
+  </Memories>
+</MemoryUtilizationReport>
