@@ -338,3 +338,12 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/make.exe.stackdump
+/.visualgdb/CodeDB/esp8266_idf_async_tcp_server.vgdbproj-Debug-VisualGDB/AsyncTCP.npa00
+/.visualgdb/CodeDB/esp8266_idf_async_tcp_server.vgdbproj-Debug-VisualGDB/AsyncTCP.npd
+*.rdb
+*.npa00
+*.npa01
+*.lck
+*.000
+*.001

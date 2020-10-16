@@ -167,115 +167,6 @@ static void wait_for_ip()
 	ESP_LOGI(TAG, "Connected to AP");
 }
 
-/*
-std::vector<NetPP::Socket> Clients;
-SemaphoreHandle_t clients_lock;
-
-
-static void tcp_server_loop(void *pvParameteres)
-{
-	
-	const auto listenfd = listener.GetHandle();
-	ESP_LOGI(TAG, "listener FD: %d\n", listenfd);
-	using namespace NetPP;
-	
-	
-	while (true)
-	{
-		//xSemaphoreTake(clients_lock, portMAX_DELAY);
-		Clients.emplace_back(Socket());
-		auto& client = Clients[Clients.size() - 1];
-		//xSemaphoreGive(clients_lock);
-		IPEndpoint clientEndPoint;
-		if (listener.Accept(client, clientEndPoint) == PResult::P_Success)
-		{
-			client.SetKeepAliveOptions(3, 3, 3);
-			ESP_LOGI(TAG, "New connection accepted with IP: %s\n", clientEndPoint.GetHostname().c_str());
-			xTaskCreate([](void *pvParameteres) {
-					NetPP::Socket* Client = reinterpret_cast <NetPP::Socket*>(pvParameteres);
-					while (true)
-					{
-						char buff[128];
-						int bytesRec = 0;
-						PResult result = Client->Recv(&buff,
-							sizeof(buff),
-							bytesRec);
-						buff[bytesRec] = '\0';
-						if (result == PResult::P_GenericError)
-						{
-							// client disconnected?
-							ESP_LOGI(TAG, "client disconnected?\n");
-							// no need to close the connection manually (beucase RAII !)
-							ESP_LOGI(TAG, "clearing FD: %d\n", Client->GetHandle());
-							Client->Close();
-							break;
-						}
-						ESP_LOGI(TAG, "message: %s\n", buff);
-						
-					
-					}
-					vTaskDelete(nullptr);
-				},
-				"tcp_server_task",
-				1024,
-				&client,
-				5,
-				NULL);
-		}
-		else
-		{
-			Clients.pop_back();
-		}
-	}
-}
-
-
-static void tcp_server_task(void *pvParameters)
-{
-	using namespace NetPP;
-	
-	while (true)
-	{
-		vTaskDelay(1000);
-		for (auto it = Clients.begin(); it != Clients.end();)
-		{
-			auto& client = *it;
-			int count;
-			int res = lwip_ioctl(client.GetHandle(), FIONREAD, &count);
-			if (res != 0)
-				perror("ioctlsocket");
-			
-			if (count > 0)
-			{	
-				char buff[512];
-				int bytesRec = 0;
-				PResult result = client.Recv(&buff,
-					sizeof(buff),
-					bytesRec);
-				if (result == PResult::P_GenericError)
-				{
-					// client disconnected?
-					ESP_LOGI(TAG, "client disconnected?\n");
-					// no need to close the connection manually (beucase RAII !)
-					ESP_LOGI(TAG, "clearing FD: %d\n", client.GetHandle());
-					xSemaphoreTake(clients_lock, portMAX_DELAY);
-					Clients.erase(it);
-					xSemaphoreGive(clients_lock);
-					continue;
-				}
-				ESP_LOGI(TAG, "message: %s\n", buff);
-			}
-			xSemaphoreTake(clients_lock, portMAX_DELAY);
-			++it;
-			xSemaphoreGive(clients_lock);
-		}
-	}
-	vTaskDelete(NULL);
-}
-*/
-
-
-	
 static void heap_monitor_task(void *pvParameters)
 {
 	while (true)
@@ -287,12 +178,15 @@ static void heap_monitor_task(void *pvParameters)
 }
 
 
-
-//AsyncClient c;
 extern "C" void app_main()
 {
-	//ESP_ERROR_CHECK(nvs_flash_init());
+	/*
+	 * idk why they call it in 'examples' when it's 
+	 * already being called in 'user_init_entry' function
+	 **/
+	//ESP_ERROR_CHECK(nvs_flash_init()); 
 	
+ 	
 	initialise_wifi();
 	wait_for_ip();
 	
@@ -334,31 +228,16 @@ extern "C" void app_main()
 	c.connect("192.168.1.4", 56389);
 	*/
 	
-	
 	int8_t power = 0;
 	ESP_ERROR_CHECK(esp_wifi_get_max_tx_power(&power));
 	ESP_LOGI(TAG, "Wifi max tx power: %d\n", power);
-
 	
-	/*
-	using namespace NetPP;
-	if (listener.Create() != PResult::P_Success)
-		ESP_LOGI(TAG, "Error Creating Listener...\n");
+	constexpr auto TCP_PORT = 48888;
+	constexpr auto BACK_LOG = 20;
 
-	listener.SetSocketOption(SocketOption::SO_ReuseAddress, 1);
-	//listener.SetSocketOption(SocketOption::SO_ReusePort, 1);
-
-	if(listener.Listen(IPEndpoint("0.0.0.0", 48888), 30) != PResult::P_Success)
-	  ESP_LOGI(TAG, "Error Listening...\n");
-	
-	clients_lock = xSemaphoreCreateBinary();
-	xSemaphoreGive(clients_lock);
-	xTaskCreate(tcp_server_loop, "tcp_server_loop", 4096, NULL, 5, NULL);
-	//xTaskCreate(tcp_server_task, "tcp_server_task", 4096, NULL, 5, NULL);
-	*/
-	AsyncServer* server = new AsyncServer(48888);       // start listening on tcp port 7050
+	AsyncServer* server = new AsyncServer(TCP_PORT);        // start listening on tcp port 7050
 	server->onClient(&handleNewClient, server);
-	server->begin(20);
+	server->begin(BACK_LOG);
 	//xTaskCreate(tcp_server_task, "tcp_server_task", 4096, NULL, 5, NULL);
 	xTaskCreate(heap_monitor_task, "heap_monitor_task", 1024, NULL, 4, NULL);
 	
